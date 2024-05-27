@@ -1,0 +1,27 @@
+Source Videos:  Maven Full Course | Apache Maven Tutorial For Beginners : https://www.youtube.com/watch?v=uAQs-YXnY-U
+
+Maven Overview
+    - Maven is a build tool, a dependency management tool. and a project management tool
+    - Allows code base to be easily used by other individuals, as long as they know how to use the build tool.
+    - Idea behind build tool is to make running the code usable between multiple systems and repeatable
+
+Maven Landscape
+    - Project Object Model (POM)
+        - XML File
+        - pom.xml
+        - contains all the information needed to run the project
+        - uses a coordinate system to describe an artifact so that it can be taken from a remote repository
+    - Plugins are a collection of goals
+    - Goals perform the actions in Maven Builds
+    - Plugins and goals can either be called independently or within a lifecycle
+    - Maven has a Lifecycle with phases
+        - Lifecycles are made of phases
+        - Maven has 3 Lifecycles
+            - Clean
+            - Default : Largest lifecycle and is where our plugins will bind the all the phases
+            - Site
+
+Technical Overview
+    -
+
+

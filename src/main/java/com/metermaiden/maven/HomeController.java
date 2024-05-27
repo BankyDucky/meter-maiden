@@ -1,2 +1,4 @@
-package com.metermaiden.maven;public class HomeController {
+package com.metermaiden.maven;
+
+public class HomeController {
 }
